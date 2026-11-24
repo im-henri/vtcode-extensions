@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "name": "VTCode Official",
+  "description": "Extensions maintained by the VTCode project.",
+  "extensions": [
+    {
+      "id": "vtcode.bitcalc",
+      "repository": "https://github.com/im-henri/vtcode-ext-bitcalc",
+      "name": "Bitcalc",
+      "description": "Arbitrary-width programmer's calculator: any bit width, Verilog-style slices and concatenation, clickable bits and fields."
+    },
+    {
+      "id": "vtcode.hex-editor",
+      "repository": "https://github.com/im-henri/vtcode-ext-hex-editor",
+      "name": "Hex Editor",
+      "description": "Inspect and edit binary files with a hex/ASCII grid, data inspector, search, and undo history."
+    },
+    {
+      "id": "vtcode.waveform-viewer",
+      "repository": "https://github.com/im-henri/vtcode-ext-waveform-viewer",
+      "name": "Waveform Viewer",
+      "description": "Explore VCD and FST simulations with a hierarchy browser, digital and analog traces, cursors, markers, transition search, and saved sessions."
+    }
+  ]
+}
